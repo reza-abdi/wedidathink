@@ -10,3 +10,4 @@ Group member names (6 members):
 5.
 6.
 
+# Group break down strategy
