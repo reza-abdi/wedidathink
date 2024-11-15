@@ -19,3 +19,11 @@ MUSE SDK INSTALLER https://drive.google.com/drive/folders/1ID35qK7zCvRXmQTFsbDgm
 
 # Software/Resources
 https://portal.neuralberta.tech/course/3/md/55
+https://www.youtube.com/watch?v=Qdwyhi2ulZU   <--- Useful brainflow video.
+
+# Dependencies
+brainflow
+numpy
+matplotlib
+notebook
+jupyter
