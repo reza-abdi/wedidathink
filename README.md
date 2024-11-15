@@ -1,3 +1,3 @@
 # wedidathink
 
-NatHacks Hackathon
+# NatHacks Hackathon
