@@ -11,3 +11,6 @@ Group member names (6 members):
 6.
 
 # Group break down strategy
+
+software 
+https://portal.neuralberta.tech/course/3/md/55
