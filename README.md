@@ -14,5 +14,5 @@ Group member names (6 members):
 
 
 
-# software and tools
+# Software/Resources
 https://portal.neuralberta.tech/course/3/md/55
