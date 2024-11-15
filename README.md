@@ -10,6 +10,8 @@ Group member names (6 members):
 5. Kenneth Joseph 
 6. Talha Muhammad
 
+MUSE SDK INSTALLER https://drive.google.com/drive/folders/1ID35qK7zCvRXmQTFsbDgmPkVGhnPeCxa?usp=sharing
+
 # Group break down strategy
 
 
