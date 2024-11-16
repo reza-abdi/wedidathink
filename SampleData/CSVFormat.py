@@ -56,8 +56,8 @@ else:
         hours, remainder = divmod(second, 3600)
         minutes, seconds = divmod(remainder, 60)
         print(f"Time: {hours:02d}:{minutes:02d}:{seconds:02d}\n"+
-              f"Alpha  - {row['Alpha']:.3f}\n"+
-              f"Beta  - {row['Beta']:.3f}\n"+
-              f"Delta  - {row['Delta']:.3f}\n"+
-              f"Gamma   - {row['Gamma']:.3f}\n"+
-              f"Theta  - {row['Theta']:.3f}\n")
+              f"Alpha {row['Alpha']:.3f}\n"+
+              f"Beta {row['Beta']:.3f}\n"+
+              f"Delta {row['Delta']:.3f}\n"+
+              f"Gamma {row['Gamma']:.3f}\n"+
+              f"Theta {row['Theta']:.3f}\n")
