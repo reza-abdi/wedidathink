@@ -8,7 +8,7 @@ Group member names (6 members):
 3. Omar Mohamed
 4. William Baird
 5. Kenneth Joseph 
-6. Talha Muhammad
+6. Muhammad Talha 
 
 MUSE USAGE VIDEO https://www.youtube.com/watch?v=omn7y3TIsGc
 MUSE SDK INSTALLER https://drive.google.com/drive/folders/1ID35qK7zCvRXmQTFsbDgmPkVGhnPeCxa?usp=sharing
