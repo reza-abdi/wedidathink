@@ -21,7 +21,8 @@ By using the Muse 2 Brain Headband, we were able to collect data by setting up s
 We developed code to help pull out these focus points from brain waves, indicating when a student has lost focus, falls into a state of deep understanding, or could use a new environment. 
 Our plan is to develop this information into a health application, that can create summaries of your study session, similar to how the running apps track how your run goes. This can provide insight to the efficiency of study among individuals, and could be used by educational institutes to help students who are struggling, learn to learn better. 
 
-
+Note
+Backend folder contains Html, CSS, JS, and Python content, it is not fully connected, and has only been fully tested on MacOS. It does not yet display realtime graph, and is only uploaded for sharing purposes. Photos in the Repo show the output + front end concepts.
 
 # Software/Resources
 https://portal.neuralberta.tech/course/3/md/55
